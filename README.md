@@ -1,3 +1,4 @@
+[![](http://img.youtube.com/vi/vH06uZXhwDM/0.jpg)](http://www.youtube.com/watch?v=vH06uZXhwDM "Nikko Remulla (Backend) - Appetiser Apps")
 # calendar
 
 ## Project setup
